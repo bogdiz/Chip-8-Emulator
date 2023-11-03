@@ -42,5 +42,3 @@ int main(int argc, char* argv[])
 
 	return 0;
 }
-
-//./main 10 3 ../games/Tetris.ch8
